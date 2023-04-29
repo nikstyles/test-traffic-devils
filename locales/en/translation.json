@@ -1,0 +1,49 @@
+{
+  "MenuList": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contacts": "Contacts"
+  },
+  "Banner": {
+    "I_m_Nikita": "I'm Nikita",
+    "front_end": "front-end",
+    "developer": "developer"
+  },
+  "TechSkills": {
+    "title": "TechSkills"
+  },
+  "About": {
+    "about_myself": "I am a Junior Front-End developer looking for a remote job in a company, where I can apply my experience. I focus on HTML, CSS, JavaScript, and React. I have hands-on experience in teamwork. I am motivated to work and to learn and open to new opportunities.",
+    "title_experience": "WORK EXPERIENCE",
+    "work_experience": [
+      {
+        "logoCompany": "dniprom",
+        "title": "Graphic Designer",
+        "timePeriod": "01.2019 - 01.2022",
+        "text": "Creation of design of leaflets, catalogues. Construction tool branding. Package design. 3D modeling of accessories (Cinema 4d). Photo retouching. Rebranding from TM Foresta to Dnipro-M. Website banner. Merch (cups, t-shirts, paper clips...) Layout of instructions for tool."
+      },
+      {
+        "logoCompany": "polikam",
+        "title": "Graphic Designer",
+        "timePeriod": "03.2018 - 08.2018",
+        "text": "Creation or resize of graphic layouts. Designing sales points according to the brand book. Layout of presentations. There was an opportunity to cooperate with such brands as: NESCAFE, Nesquik, Lion, Purina ONE, PRO PLAN, Gourmet, Friskies, Dog Chow, Nestle, Fitness, Optimeal."
+      }
+    ],
+    "title_education": "EDUCATION",
+    "education": [
+      {
+        "title": "Full stack developer",
+        "timePeriod": "02.2022 - till now",
+        "text": "IT School GoIT"
+      },
+      {
+        "title": "Ceramic artist",
+        "timePeriod": "09.2010 - 05.2014",
+        "text": "Kyiv Industrial College"
+      }
+    ]
+  },
+  "Projects": { "site": "Site" },
+  "Contacts": { "title": "Contacts" }
+}
