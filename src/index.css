@@ -1,0 +1,34 @@
+@import-normalize; /* bring in normalize.css styles */
+html {
+  box-sizing: border-box;
+}
+
+body {
+  box-sizing: border-box;
+
+  margin: 0;
+  font-family: HelveticaNeueCyr, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+code {
+  font-family: HelveticaNeueCyr, sans-serif;
+}
