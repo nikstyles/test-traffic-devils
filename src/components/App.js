@@ -15,7 +15,7 @@ const WrapApp = styled.div`
 `;
 
 const Homepage = lazy(() => import('pages/Homepage'));
-const Projects = lazy(() => import('pages/Projects/Projects'));
+const Sweepstake = lazy(() => import('pages/Sweepstake/Sweepstake'));
 // const AboutPage = lazy(() => import('pages/AboutPage/AboutPage'));
 
 export const App = () => {
@@ -26,12 +26,14 @@ export const App = () => {
       <GlobalStyles />
       <Navigation setBlur={setBlur} />
       <Suspense fallback={<Loading />}>
-        <Routes>
-          <Route path="/" element={<Homepage />} />
-          <Route path="/sweepstake" element={<Projects />} />
-          {/* <Route path="/about" element={<div>hello</div>} /> */}
-          <Route path="*" element={<Homepage />} />
-        </Routes>
+        <main>
+          <Routes>
+            <Route path="/" element={<Homepage />} />
+            <Route path="/sweepstake" element={<Sweepstake />} />
+            {/* <Route path="/about" element={<div>hello</div>} /> */}
+            <Route path="*" element={<Homepage />} />
+          </Routes>
+        </main>
       </Suspense>
     </WrapApp>
   );

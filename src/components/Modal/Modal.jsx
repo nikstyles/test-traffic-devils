@@ -2,7 +2,6 @@ import styled from 'styled-components';
 import { createPortal } from 'react-dom';
 import { RiCloseLine } from 'react-icons/ri';
 import items from './items';
-// import { HiOutlineMail } from 'react-icons/hi';
 import { useTranslation } from 'react-i18next';
 
 const ModalBackdrop = styled.div`

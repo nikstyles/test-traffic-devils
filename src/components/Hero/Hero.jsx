@@ -268,6 +268,11 @@ const Button = styled.button`
   font-size: 20px;
   letter-spacing: 0.05em;
   color: #fff;
+  transition: 0.3s;
+  :hover {
+    background-color: #512cc0;
+    box-shadow: 0px 0 20px 0 #9470ff;
+  }
   @media (min-width: 440px) {
   }
   @media (min-width: 768px) {
