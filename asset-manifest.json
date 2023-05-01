@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/test-traffic-devils/static/css/main.41705913.css",
-    "main.js": "/test-traffic-devils/static/js/main.21dc4690.js",
+    "main.css": "/test-traffic-devils/static/css/main.d543304c.css",
+    "main.js": "/test-traffic-devils/static/js/main.0a0e3894.js",
     "static/css/618.8b1fa0a1.chunk.css": "/test-traffic-devils/static/css/618.8b1fa0a1.chunk.css",
-    "static/js/618.b31f9501.chunk.js": "/test-traffic-devils/static/js/618.b31f9501.chunk.js",
-    "static/js/344.494f609c.chunk.js": "/test-traffic-devils/static/js/344.494f609c.chunk.js",
-    "static/js/880.8a3fe301.chunk.js": "/test-traffic-devils/static/js/880.8a3fe301.chunk.js",
+    "static/js/618.a69ce175.chunk.js": "/test-traffic-devils/static/js/618.a69ce175.chunk.js",
+    "static/js/130.7afebbb4.chunk.js": "/test-traffic-devils/static/js/130.7afebbb4.chunk.js",
+    "static/js/620.de3ee6ed.chunk.js": "/test-traffic-devils/static/js/620.de3ee6ed.chunk.js",
     "static/media/20190930_172901.png": "/test-traffic-devils/static/media/20190930_172901.ef7594a37bcebffbb783.png",
     "static/media/logo.png": "/test-traffic-devils/static/media/logo.521a59b70354d8cf5417.png",
+    "static/media/prize_dyson.png": "/test-traffic-devils/static/media/prize_dyson.17e5c87560d3e42f51d0.png",
+    "static/media/prize.png": "/test-traffic-devils/static/media/prize.09f88c0422dd9a1a23a6.png",
+    "static/media/icon_3.png": "/test-traffic-devils/static/media/icon_3.924b30a95f07fe10aa47.png",
+    "static/media/icon_2.png": "/test-traffic-devils/static/media/icon_2.729b6ba2f49367628c20.png",
+    "static/media/icon_1.png": "/test-traffic-devils/static/media/icon_1.b64c062f2786358b3d19.png",
     "index.html": "/test-traffic-devils/index.html",
     "static/media/getFetch.cjs": "/test-traffic-devils/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.41705913.css.map": "/test-traffic-devils/static/css/main.41705913.css.map",
-    "main.21dc4690.js.map": "/test-traffic-devils/static/js/main.21dc4690.js.map",
+    "static/media/line.svg": "/test-traffic-devils/static/media/line.2af4edeef2ca660d112fb34ff01b21a4.svg",
+    "main.d543304c.css.map": "/test-traffic-devils/static/css/main.d543304c.css.map",
+    "main.0a0e3894.js.map": "/test-traffic-devils/static/js/main.0a0e3894.js.map",
     "618.8b1fa0a1.chunk.css.map": "/test-traffic-devils/static/css/618.8b1fa0a1.chunk.css.map",
-    "618.b31f9501.chunk.js.map": "/test-traffic-devils/static/js/618.b31f9501.chunk.js.map",
-    "344.494f609c.chunk.js.map": "/test-traffic-devils/static/js/344.494f609c.chunk.js.map",
-    "880.8a3fe301.chunk.js.map": "/test-traffic-devils/static/js/880.8a3fe301.chunk.js.map"
+    "618.a69ce175.chunk.js.map": "/test-traffic-devils/static/js/618.a69ce175.chunk.js.map",
+    "130.7afebbb4.chunk.js.map": "/test-traffic-devils/static/js/130.7afebbb4.chunk.js.map",
+    "620.de3ee6ed.chunk.js.map": "/test-traffic-devils/static/js/620.de3ee6ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41705913.css",
-    "static/js/main.21dc4690.js"
+    "static/css/main.d543304c.css",
+    "static/js/main.0a0e3894.js"
   ]
 }
